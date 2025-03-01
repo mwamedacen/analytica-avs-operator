@@ -1,0 +1,13 @@
+{
+    "lastUpdate": { "timestamp": "1740818196", "block_number": "3431972" },
+    "addresses": {
+      "proxyAdmin": "0x087ceab588c787a21965a1a40ea8a60bc1cccff1",
+      "chainAnalyticaServiceManager": "0x6116dfc1e59cf0ebfa03dbd1da70c9225227f075",
+      "chainAnalyticaServiceManagerImpl": "0x8b2299479cdd114ec297fbfe688e06ee6a212a1f",
+      "stakeRegistry": "0x49b5fd9f845d73a2e93f9ae0263e64a84f68c28d",
+      "stakeRegistryImpl": "0xcdb78721ed1f1ad22185a98d86e79718d11f3155",
+      "strategy": "0x7d704507b76571a51d9cae8addabbfd0ba0e63d3",
+      "token": "0x0000000000000000000000000000000000000000"
+    }
+  }
+  
